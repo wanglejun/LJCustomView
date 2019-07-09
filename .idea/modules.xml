@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/LJCustomView.iml" filepath="$PROJECT_DIR$/LJCustomView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common/common.iml" filepath="$PROJECT_DIR$/common/common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ljdashboard/ljdashboard.iml" filepath="$PROJECT_DIR$/ljdashboard/ljdashboard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ljpiechart/ljpiechart.iml" filepath="$PROJECT_DIR$/ljpiechart/ljpiechart.iml" />
+    </modules>
+  </component>
+</project>
